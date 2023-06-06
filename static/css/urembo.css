@@ -1,0 +1,58 @@
+ul{
+    list-style-type: none;
+    background-color: aqua;
+    overflow: hidden;
+}
+li{
+float: left;
+}
+li,a{
+    padding: 10px;
+    display: block;
+    color: #830606;
+    font-family: "Courier 10 Pitch";
+}
+li a:hover{
+    color: crimson;background-color: #9500ff
+}
+.fruits{
+    background-color: #7bff00;
+    border: 2px dotted crimson;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: "Bitstream Charter";
+}
+.cars{
+    background-color: blue;
+    border: 2px dotted crimson;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: MathJax_Caligraphic;
+}
+.FRUITS{
+    background-color: cyan;
+    border: 2px dotted firebrick;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: "Bitstream Charter";
+}
+#gari{
+    background-color: cyan;
+    border: 2px dotted firebrick;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: "Bitstream Charter";
+
+}
+#matunda{
+    background-color: #440606;
+    border: 2px dotted firebrick;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: "Bitstream Charter";
+}

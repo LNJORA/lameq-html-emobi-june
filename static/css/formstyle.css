@@ -1,0 +1,52 @@
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    border: 2px solid firebrick;
+    border-radius: 5px;
+    padding: 40px;
+}
+.container h2{
+    text-align: center;
+}
+.form-group{
+    margin-bottom: 10px;
+}
+.form-group label{
+    margin-top: 5px;
+    display: block;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.form-group input{
+    width: 94%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #440606;
+    font-size: larger;
+}
+.form-group input:hover{
+    background-color: burlywood;
+}
+.form-group button{
+    width: 100%;
+    padding: 20px;
+    background-color: #7bff00;
+    color: #9500ff;
+    border: none;
+    border-radius:  5px;
+    cursor: pointer;
+}
+.form-group button:hover{
+    background-color: aqua;
+}
+body{
+    font-family: MathJax_Caligraphic;
+}
+#message{
+    background-color: burlywood;
+    width: 94%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #440606;
+    font-size:15px ;
+}
